@@ -23,7 +23,7 @@ print(2-5)
 
 print(10/4)
 
-print (100*1.1**7)
+print (100*1.1**8)
 
 x = 5
 print(x)
